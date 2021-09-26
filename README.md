@@ -1,6 +1,7 @@
 An app with gsap-animations on scroll.
 Once the card reaches a point it becomes visible.
 </br>
+</br>
 Tech:</br>
 <img align="left" src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
